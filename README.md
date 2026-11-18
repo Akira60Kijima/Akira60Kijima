@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Akira Kijima （鬼嶋 朗）
 
-<!--
-**Akira60Kijima/Akira60Kijima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Singing is my life.**
 
-Here are some ideas to get you started:
+- Cram school owner & lecturer
+- Vocalist / streamer — solo streams and the group show MIDNIGHT ESPRESSO（仮）
+- Building small, local-only tools for schools, cram schools and streamers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **OBS multistream plugin** — stream to YouTube / Twitch / Spoon / SHOWROOM at once, with a different scene per destination
+- **OBS voice changer** — a lightweight voice filter for OBS, plus a standalone app for Discord
+- **VocalMix** — mix vocal and accompaniment files, with an automatic vocal chain
+- **Math Drill Maker** — auto-generated maths drills for junior-high and high-school students
+- **Score / mock-exam tool** — score processing and school-choice judgement for small cram schools
+- **English Composition Maker** — English composition practice by grammar item and grade
+
+## Links
+
+- X: [@Akira60Kijima](https://x.com/Akira60Kijima)
+- YouTube: [@Akira.Kijima](https://www.youtube.com/@Akira.Kijima)
+- Linktree: [linktr.ee/akira.kijima](https://linktr.ee/akira.kijima)
+
+📍 鬼ヶ島
